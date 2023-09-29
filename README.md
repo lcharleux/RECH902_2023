@@ -84,6 +84,27 @@ Certainly! Learning Git can be a valuable skill for a student working with sourc
    - **Install VScode**: To install Visual Studio Code, first, visit the official VSCode website (https://code.visualstudio.com/) and click on the "Download for [your operating system]" button. Choose the appropriate version for your computer (Windows, macOS, or Linux). Once the download is complete, run the installer and follow the on-screen instructions. After the installation is finished, you can launch VSCode from your application menu (on Linux), Start menu (on Windows), or Applications folder (on macOS). VSCode is now ready to use, and you can start coding in your favorite programming languages or editing LaTeX documents with its rich set of extensions and features.
    - **Install Anaconda**: To install the Anaconda Python distribution, first, visit the Anaconda website (https://www.anaconda.com/products/distribution) and download the Anaconda installer that matches your operating system (Windows, macOS, or Linux). Choose the version that corresponds to your Python preference (Python 3.x is recommended). Once the download is complete, run the installer and follow the installation instructions. You can choose to add Anaconda to your system's PATH during installation, which is a convenient option. After the installation is complete, you can open Anaconda Navigator or use the Anaconda command-line tools to manage Python environments and install packages. Anaconda provides a powerful environment for data science and scientific computing, making it a valuable tool for various programming and research tasks.
 
+1. Create a GIThub account:
+
+    1. **Visit the GitHub Website**:
+    Open your web browser and go to the GitHub website by entering the following URL: https://github.com/.
+
+    2. **Start Sign-Up Process**:
+    On the GitHub homepage, you will see a "Sign up" button in the upper-right corner. Click on it to begin the registration process.
+
+    3. **Enter Your Information**:
+    You will be taken to the sign-up page, where you'll need to provide the following information:
+    - **Username**: Choose a unique username that will be your GitHub identity. If the username is already taken, GitHub will prompt you to choose another.
+    - **Email Address**: Enter a valid email address. This will be used for account-related notifications and password resets.
+    - **Password**: Create a strong password for your account. GitHub will provide feedback on the password's strength.
+
+    4. **Verify Your Email Address**:
+    After providing your email and password, GitHub will send you a verification email to the address you provided. Open your email inbox and find the email from GitHub. Click on the verification link to confirm your email address.
+
+    5. **Choose a Plan**:
+   For most users, the free plan (GitHub Free) is sufficient. Select the free plan by clicking on the "Choose Free" button.
+
+
 2. **Set Up Your Identity**:
    - Configure your Git identity by setting your name and email address. This information is included in your commit messages.
    
