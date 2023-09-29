@@ -79,15 +79,18 @@ Remember, Git can seem a bit complex at first, but with practice, it becomes a v
 
 Certainly! Learning Git can be a valuable skill for a student working with source code or LaTeX documents. Here are some key steps and things to do to start learning Git effectively:
 
-1. **Install Git**:
-   - Begin by installing Git on your computer. You can download it from the official Git website (https://git-scm.com/).
+1. **Set Up Your Computer**
+    - **Install Git**: Begin by installing Git on your computer. You can download it from the official Git website (https://git-scm.com/).
+   - **Install VScode**: To install Visual Studio Code, first, visit the official VSCode website (https://code.visualstudio.com/) and click on the "Download for [your operating system]" button. Choose the appropriate version for your computer (Windows, macOS, or Linux). Once the download is complete, run the installer and follow the on-screen instructions. After the installation is finished, you can launch VSCode from your application menu (on Linux), Start menu (on Windows), or Applications folder (on macOS). VSCode is now ready to use, and you can start coding in your favorite programming languages or editing LaTeX documents with its rich set of extensions and features.
+   - **Install Anaconda**: To install the Anaconda Python distribution, first, visit the Anaconda website (https://www.anaconda.com/products/distribution) and download the Anaconda installer that matches your operating system (Windows, macOS, or Linux). Choose the version that corresponds to your Python preference (Python 3.x is recommended). Once the download is complete, run the installer and follow the installation instructions. You can choose to add Anaconda to your system's PATH during installation, which is a convenient option. After the installation is complete, you can open Anaconda Navigator or use the Anaconda command-line tools to manage Python environments and install packages. Anaconda provides a powerful environment for data science and scientific computing, making it a valuable tool for various programming and research tasks.
 
 2. **Set Up Your Identity**:
    - Configure your Git identity by setting your name and email address. This information is included in your commit messages.
-   ```
-   git config --global user.name "Your Name"
-   git config --global user.email "your@email.com"
-   ```
+   
+        ```bash
+        git config --global user.name "Your Name"
+        git config --global user.email "your@email.com"
+        ```
 
 3. **Learn Basic Commands**:
    - Familiarize yourself with basic Git commands such as `git init`, `git clone`, `git add`, `git commit`, `git push`, and `git pull`. These are the fundamental operations you'll use most often.
