@@ -29,8 +29,6 @@ In summary, Git is a powerful tool for students working on textual documents lik
 
 ## Basic concepts
 
-Certainly! Here are the basic concepts in Git explained in a way that's easy for a student producing source code or LaTeX documents to understand:
-
 1. **Repository**:
    - Think of a repository as a project folder. It's where you store all your source code or LaTeX documents and their history.
 
@@ -77,7 +75,7 @@ Remember, Git can seem a bit complex at first, but with practice, it becomes a v
 
 ## Exercices
 
-Certainly! Learning Git can be a valuable skill for a student working with source code or LaTeX documents. Here are some key steps and things to do to start learning Git effectively:
+Learning Git can be a valuable skill for a student working with source code or LaTeX documents. Here are some key steps and things to do to start learning Git effectively:
 
 1. **Set Up Your Computer**
     - **Install Git**: Begin by installing Git on your computer. You can download it from the official Git website (https://git-scm.com/).
@@ -155,4 +153,4 @@ Certainly! Learning Git can be a valuable skill for a student working with sourc
 16. **Backup Your Work**:
     - Regularly push your work to a remote repository (e.g., GitHub) to ensure it's backed up and accessible from anywhere.
 
-Remember that learning Git can take time, so be patient with yourself. Start with the basics, and as you become more confident, you can delve into more advanced Git concepts. Git is a powerful tool that can greatly enhance your ability to manage and collaborate on projects.
+Remember that learning Git can take time, so be patient with yourself. Start with the basics, and as you become more confident, you can delve into more advanced Git concepts. 
